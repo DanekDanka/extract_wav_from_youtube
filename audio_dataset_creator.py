@@ -19,7 +19,7 @@ class AudioDatasetCreator:
         self.entries = []
 
         # Устанавливаем путь по умолчанию
-        self.dataset_path.set("/home/danya/datasets/speech_vetification/")
+        self.dataset_path.set("~/datasets/speech_vetification/")
 
         self.create_widgets()
 
