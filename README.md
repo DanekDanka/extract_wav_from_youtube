@@ -20,3 +20,7 @@ python3 audio_dataset_creator.py
 
 
 ---
+
+Пример работы приложения
+
+![](https://github.com/DanekDanka/extract_wav_from_youtube/blob/main/image.png)
